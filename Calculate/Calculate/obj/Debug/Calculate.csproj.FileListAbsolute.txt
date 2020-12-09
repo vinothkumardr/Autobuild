@@ -1,0 +1,9 @@
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\ACER_INDIA\documents\visual studio 2015\Projects\Calculate\Calculate\obj\Debug\Calculate.pdb
